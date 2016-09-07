@@ -1,2 +1,2 @@
 inna
-kassi nimi on kass
+Kassi nimi on Kass
