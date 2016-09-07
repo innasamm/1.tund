@@ -1,3 +1,6 @@
 inna
-	Kassi nimi on Kass
-	nüüd lisan uue lause juurde
+
+Kassi nimi on Kass
+
+nüüd lisan uue lause juurde
+
